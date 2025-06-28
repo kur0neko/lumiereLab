@@ -68,7 +68,7 @@ const logoIconsList = [
 const abilities = [
   {
     imgPath: "/images/seo.png",
-    title: "More Programming I know",
+    title: "Programming Langues",
     desc: " MASM, NASM, C, C++, Python, JavaScript, mySQL, Verilog, HTML, CSS, Java, Swift, Flutter, Go, React, React native ",
   },
   {
