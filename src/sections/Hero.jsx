@@ -52,7 +52,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi!, My name is Nathan, computer engineer/software developer base in California.
+              Hi! My name is Nathan. I'm a computer engineer and software developer based in California.
             </p>
 
             <Button

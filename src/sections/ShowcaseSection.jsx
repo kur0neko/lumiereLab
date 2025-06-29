@@ -53,10 +53,10 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                Project I currently working, mobile app encourage everyone to cook, intuitive UI/UX lanching soon!
+                I’m currently developing a mobile app that promotes healthy home cooking through an intuitive and user-friendly experience.
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS with industrial standard and user-friendly experience.
+                A high-performance mobile app built with React Native, Expo, and TailwindCSS, featuring AI integration and a user-friendly, industry-standard design.
               </p>
                <a
                href="https://github.com/kur0neko/FoodReal"
