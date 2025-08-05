@@ -163,9 +163,9 @@ const expCards = [
     title: "Computer Engineer",
     date: "August 2024 - December 2024",
     responsibilities: [
-      "Conducted technical research on high-voltage battery tech for space missions, with laser charging integration.",
-      "Pitched and co-authored an innovation proposal selected by NASA MSFC for further development.",
-      "Collaborated with engineers to review innovative proposals and gained hands-on experience developing prototypes.",
+      "Conducted in-depth research on high-voltage battery systems and investigated laser-based charging methods to support extended-duration space missions.",
+      "Co-wrote and presented a technical proposal that was selected by NASA Marshall Space Flight Center for further review due to its innovation and practical feasibility.",
+      "Collaborated with engineers and analysts to evaluate new aerospace concepts and contributed to the design of early-stage prototypes used for proof-of-concept modeling.",
     ],
     pdfLink: "/pdf/NPWEE_Research.pdf"
   },
@@ -176,9 +176,9 @@ const expCards = [
     title: "Program Analyst & Computer Engineer",
     date: "January 2024 - August 2024",
     responsibilities: [
-      "Worked with engineer students on a simulated NASA Discovery Mission to execute a lunar water sample collection operation.",
-      "Managed project timeline forecasting for major designed milestones (MCR, SRR, MDR) using NASA tools.",
-      "Conducted entire mission cost estimation, resource analysis, instruments cost using NICM CERs/SERs and MCCET.",
+      "Played an active role in a simulated NASA Discovery Mission, contributing to technical planning for a lunar water sample retrieval and return operation.",
+      "Assisted in managing mission schedules by forecasting and aligning critical milestones using NASA’s project review and tracking systems.",
+      "Conducted mission cost analysis by researching historical data and applying NASA’s official tools to estimate budgets, resources, and instrumentation needs.",
     ],
     pdfLink: "/pdf/MCAPreliminaryDesignReview.pdf"
   },
@@ -189,9 +189,9 @@ const expCards = [
     title: "IT Technician & IT specialist (Full-Time)",
     date: "March 2020 - August 2023",
     responsibilities: [
-      "Provided comprehensive IT support, diagnosing hardware and software issues in Windows server environment.",
-      "Performed hands-on BIOS flashing, RAID setup, VPN configuration, NAS setup, and server maintenance.",
-      "Managed hardware lifecycle: break/fix, deployments, upgrades, and service requests.",
+      "Provided end-to-end IT support by identifying, troubleshooting, and resolving hardware and software issues in a busy corporate environment.",
+      "Performed hands-on technical work including BIOS flashing, RAID configuration, VPN setup, and regular maintenance of servers and workstations.",
+      "Managed the company’s hardware inventory while coordinating repairs, system upgrades, and workstation setup for new and existing staff.",
     ],
   },
   {
@@ -201,9 +201,9 @@ const expCards = [
     title: "Frontend Developer (Part-Time)",
     date: "March 2019 - May 2020",
     responsibilities: [
-      "Developed and customized POS system UI to meet business clients’ specific requirements.",
-      "Led frontend development to ensureing align with customer requirements and their business goals.",
-      "Built full-stack web applications leveraging modern technologies to address customer requirements.",
+      "Designed and refined the user interface of point-of-sale systems to ensure smooth navigation, visual appeal, and ease of use for business clients.",
+      "Led front-end development of custom software by collaborating with clients to understand their goals and turning those into functional features.",
+      "Developed and maintained full-stack web applications that improved operational workflows and provided scalable long-term solutions for small businesses.",
     ],
   },
 ];
