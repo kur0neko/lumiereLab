@@ -167,6 +167,7 @@ const expCards = [
       "Pitched and co-authored an innovation proposal selected by NASA MSFC for further development.",
       "Collaborated with engineers to review innovative proposals and gained hands-on experience developing prototypes.",
     ],
+    pdfLink: "/pdf/NPWEE_Research.pdf"
   },
    {
     review: "During the NASA Mission Concept Academy, Nathan played a critical role in planning a simulated lunar discovery mission. He led project cost modeling and milestone forecasting, showing excellent command of NASA analysis tools and a collaborative, mission-driven mindset.",
@@ -179,6 +180,7 @@ const expCards = [
       "Managed project timeline forecasting for major designed milestones (MCR, SRR, MDR) using NASA tools.",
       "Conducted entire mission cost estimation, resource analysis, instruments cost using NICM CERs/SERs and MCCET.",
     ],
+    pdfLink: "/pdf/MCAPreliminaryDesignReview.pdf"
   },
   {
     review: "Nathan was instrumental in maintaining the integrity of Mountain Cascade’s IT infrastructure. His deep understanding of Windows server environments, hands-on BIOS and RAID configuration, and end-to-end hardware lifecycle management made him a trusted and reliable technician.",

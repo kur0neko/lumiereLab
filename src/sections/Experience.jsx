@@ -131,12 +131,22 @@ const Experience = () => {
                         <ul className="list-disc ms-5 mt-5 flex flex-col gap-5 text-white-50">
                           {card.responsibilities.map(
                             (responsibility, index) => (
-                              <li key={index} className="text-lg">
-                                {responsibility}
+                            <li key={index} className="text-lg">
+                              {responsibility}
                               </li>
                             )
-                          )}
-                        </ul>
+                            )}
+                            </ul>
+                            {card.pdfLink && (
+                              <a
+                              href={card.pdfLink}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="mt-5 inline-block text-blue-400 underline hover:text-blue-200"
+                              >
+                                📄 Read Full Research
+                                </a>
+                              )}
                       </div>
                     </div>
                   </div>
