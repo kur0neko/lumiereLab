@@ -160,7 +160,7 @@ const expCards = [
     review: "Nathan’s work on NASA’s Proposal Writing and Evaluation program stood out for its technical insight and innovation. He co-authored a proposal selected for further development and consistently brought forward creative engineering ideas that demonstrated both clarity and depth.",
     imgPath: "/images/NASALLOGO.png",
     logoPath: "/images/BlueB.png",
-    title: "Computer Engineer",
+    title: "Reseacher",
     date: "August 2024 - December 2024",
     responsibilities: [
       "Conducted in-depth research on high-voltage battery systems and investigated laser-based charging methods to support extended-duration space missions.",
@@ -173,10 +173,10 @@ const expCards = [
     review: "During the NASA Mission Concept Academy, Nathan played a critical role in planning a simulated lunar discovery mission. He led project cost modeling and milestone forecasting, showing excellent command of NASA analysis tools and a collaborative, mission-driven mindset.",
     imgPath: "/images/NASALLOGO.png",
     logoPath: "/images/BlueB.png",
-    title: "Program Analyst & Computer Engineer",
+    title: "Reseacher",
     date: "January 2024 - August 2024",
     responsibilities: [
-      "Played an active role in a simulated NASA Discovery Mission, contributing to technical planning for a lunar water sample retrieval and return operation.",
+      "Played an active role as Program Analyst & Computer Engineer in a simulated NASA Discovery Mission, contributing to technical planning for a lunar water sample retrieval and return operation.",
       "Assisted in managing mission schedules by forecasting and aligning critical milestones using NASA’s project review and tracking systems.",
       "Conducted mission cost analysis by researching historical data and applying NASA’s official tools to estimate budgets, resources, and instrumentation needs.",
     ],
