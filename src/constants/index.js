@@ -19,6 +19,86 @@ const navLinks = [
 
 const resumeLink={resume: "/pdf/main.pdf"};
 
+
+const PROJECTS = [
+  // Featured (big first card)
+  {
+    id: "foodreal",
+    title:
+      "I’m currently developing a mobile app that promotes healthy home cooking through an intuitive and user-friendly experience.",
+    description:
+      "A high-performance mobile app built with React Native, Expo, and TailwindCSS, featuring AI integration and a user-friendly, industry-standard design.",
+    image: "/images/DemoGif.gif",
+    imageAlt: "Ryde App Interface",
+    links: [{ label: "View on GitHub", href: "https://github.com/kur0neko/FoodReal" }],
+    featured: true,
+  },
+
+  // Existing smaller cards
+  {
+    id: "note-hub",
+    title:
+      "Note Hub: Note taking web application (Python, Flask, SQLAlchemy, Django)",
+    description:
+      "NoteHub is the Note Web application built with Flask python framework, WTforms, SQL alchemy, and Jinja web template engine.",
+    image: "/images/project4.png",
+    //imageAlt: "Library Management Platform",
+    bg: "bg-[#FFEFDB]",
+    links: [{ label: "View on GitHub", href: "https://github.com/kur0neko/DesignWebsiteWithFlask" }],
+  },
+  {
+    id: "iris-net",
+    title:
+      "Neural Network Classifier for Iris Dataset (PyTorch, NumPy, Pandas, Python, Scikit-learn)",
+    description:
+      "A neural network model that classify iris flowers into Setosa, Versicolor, or Virginica species based on sepal and petal measurements.",  
+    image: "/images/project3.png",
+    //imageAlt: "YC Directory App",
+    bg: "bg-[#FFE7EB]",
+    links: [{ label: "View on GitHub", href: "https://github.com/kur0neko/NeuralNetwork_Flower" }],
+  },
+
+  // ➕ Add 3 more here (example placeholders)
+  {
+    id: "Mirai",
+    title: "Customized Linux Distro Mirai V1.0",
+    description:
+      "I Developed a custom Linux based on Debian for ARM arch64 Raspberrypi using Yocto Project",
+    image: "/images/project5.png",
+    //imageAlt: "Smart Study Buddy App",
+    bg: "bg-[#A4D8D8]",
+    links: [ { label: "Download image file", href: "https://www.dropbox.com/scl/fi/4jn9g1yl7sddigyv0ar4c/mirai-image-raspberrypi4-64.rootfs-20250905234525.rpi-sdimg?rlkey=0jiisivj8uicpbecqmm43vewt&e=1&st=9hv0d7l7&dl=0" },
+             { label: "My first attempt Build from scratch View on GitHub", href: "https://github.com/kur0neko/MiraiLinux" },
+    ],
+  },
+  {
+    id: "Schmitt",
+    title: "Square and Triangle wave generator using Schmitt Trigger Op-amp.",
+    description:
+      "Collaborated project computer engineering classmate we designed, constructed waveform generator using op-amp and transistos",
+    image: "/images/project6.png",
+    //imageAlt: "Embedded Sensor Hub",
+    bg: "bg-[#DFCCF1]",
+    links: [
+      // { label: "Case Study", href: "https://..." },
+      { label: "View Document on GitHub", href: "https://github.com/kur0neko/Square-and-Triangle-Wave-Generator" },
+    ],
+  },
+  {
+    id: "FPGA",
+    title: "FPGA RISC-V Pipeline with verilog",
+    description:
+      "FPGA Pipeline designed RISC-V Architecture using Vivado, System verilog",
+    image: "/images/project7.png",
+    //imageAlt: "Realtime Chat App",
+    bg: "bg-[#F6A6B5]",
+    links: [
+      // { label: "Live Demo", href: "https://..." },
+       { label: "View on GitHub", href: "https://github.com/kur0neko/FPGA-RISC-V" },
+    ],
+  },
+];
+
 const words = [
   { text: "Ideas", imgPath: "/images/ideas.svg" },
   { text: "Concepts", imgPath: "/images/concepts.svg" },
@@ -297,6 +377,7 @@ export {
   words,
   abilities,
   logoIconsList,
+  PROJECTS,
   counterItems,
   expCards,
   expLogos,

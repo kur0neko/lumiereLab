@@ -82,6 +82,8 @@ body {
   }
 }
 
+
+
 /* Additional twinkling stars with different animation timing */
 .stars::after {
   content: "";
