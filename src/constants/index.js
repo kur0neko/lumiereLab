@@ -25,11 +25,11 @@ const PROJECTS = [
   {
     id: "foodreal",
     title:
-      "I’m currently developing a mobile app that promotes healthy home cooking through an intuitive and user-friendly experience.",
+      "I’m currently working on a mobile app that promotes healthy home cooking through an intuitive and user-friendly experience.",
     description:
       "A high-performance mobile app built with React Native, Expo, and TailwindCSS, featuring AI integration and a user-friendly, industry-standard design.",
     image: "/images/DemoGif.gif",
-    imageAlt: "Ryde App Interface",
+    //imageAlt: "Ryde App Interface",
     links: [{ label: "View on GitHub", href: "https://github.com/kur0neko/FoodReal" }],
     featured: true,
   },
