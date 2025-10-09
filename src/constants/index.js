@@ -236,8 +236,7 @@ const techStackIcons = [
 
 //need to change
 const expCards = [
-  {//review: "At Amber System Technology, Nathan demonstrated impressive full-stack skills and client-focused development. He customized POS systems and led frontend solutions that aligned tightly with client requirements, delivering clean, effective user experiences with modern tech.",
-    //imgPath: "/images/AST.png",
+  {
     logoPath: "/images/GreenBall3.png",
     title: "Hardware Test Engineer - Tezerakt LLC (contracted to Google via xWF program) (Full-time)",
     date: "Oct 2025 - Current",
