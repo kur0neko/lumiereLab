@@ -47,7 +47,7 @@ const Hero = () => {
                   </span>
                 </span>
               </h1>
-              <h1>to Real Projects</h1>
+              <h1>to real Projects</h1>
               <h1>Bringing Real Projects to Life</h1>
             </div>
 

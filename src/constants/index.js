@@ -236,6 +236,18 @@ const techStackIcons = [
 
 //need to change
 const expCards = [
+  {//review: "At Amber System Technology, Nathan demonstrated impressive full-stack skills and client-focused development. He customized POS systems and led frontend solutions that aligned tightly with client requirements, delivering clean, effective user experiences with modern tech.",
+    //imgPath: "/images/AST.png",
+    logoPath: "/images/GreenBall3.png",
+    title: "Hardware Test Engineer - Tezerakt LLC (contracted to Google via xWF program) (Full-time)",
+    date: "Oct 2025 - Current",
+    responsibilities: [
+      "Performed environmental chamber testing on Google enterprise and development hardware to validate design reliability under extreme conditions (temperature, humidity, and stress).",
+      "Run various test suites to push the Google enterprise hardware, and the google development tools hardware to its limits ",
+      "Monitored chamber conditions and system metrics in real time to ensure accurate environmental simulation without risking hardware integrity.",
+      "Configured and prepared test setups, including network integration, firmware updates, and hardware calibration, before chamber entry."
+    ],
+  },
   {
     review: "Nathan’s work on NASA’s Proposal Writing and Evaluation program stood out for its technical insight and innovation. He co-authored a proposal selected for further development and consistently brought forward creative engineering ideas that demonstrated both clarity and depth.",
     imgPath: "/images/NASALLOGO.png",
