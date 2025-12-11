@@ -60,15 +60,14 @@ const PROJECTS = [
 
   // ➕ Add 3 more here (example placeholders)
   {
-    id: "Mirai",
-    title: "Customized Linux Distro Mirai V1.0",
+    id: "Mirai Project",
+    title: "A customized Linux based on Rasbian Debain Mirai v1.3",
     description:
-      "I Developed a custom Linux based on Debian for ARM arch64 Raspberrypi using Yocto Project",
+      "I create a custom Linux based on Debian for ARM arch64 Raspberrypi CM4 with Clockwork Pi v3.14 board using Yocto Project and Pi-gen for Deb version",
     image: "/images/project5.png",
     //imageAlt: "Smart Study Buddy App",
     bg: "bg-[#A4D8D8]",
-    links: [ { label: "Download image file", href: "https://www.dropbox.com/scl/fi/4jn9g1yl7sddigyv0ar4c/mirai-image-raspberrypi4-64.rootfs-20250905234525.rpi-sdimg?rlkey=0jiisivj8uicpbecqmm43vewt&e=1&st=9hv0d7l7&dl=0" },
-             { label: "My first attempt Build from scratch View on GitHub", href: "https://github.com/kur0neko/MiraiLinux" },
+    links: [ { label: "Build image file Here on Github", href: "https://github.com/kur0neko/MiraiOS"},
     ],
   },
   {
