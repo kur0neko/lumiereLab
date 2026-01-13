@@ -47,12 +47,13 @@ const Hero = () => {
                   </span>
                 </span>
               </h1>
-              <h1>to real Projects</h1>
-              <h1>Bringing Real Projects to Life</h1>
+              <h1>to Impact</h1>
+              <h1>Building meaningful projects</h1>
+              <h1>that solve real-world problems.</h1>
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi! My name is Nathan. I'm a computer engineer and software developer based in California.
+              Hi! My name is Nathan. I'm a computer engineer based in California.
             </p>
 
             <Button

@@ -237,11 +237,11 @@ const techStackIcons = [
 const expCards = [
   {
     logoPath: "/images/GreenBall3.png",
-    title: "Hardware Test Engineer - Tezerakt LLC (contracted to Google via xWF program) (Full-time)",
+    title: "Hardware Test Engineer - Tezerakt LLC (contracted work at Google)",
     date: "Oct 2025 - Current",
     responsibilities: [
       "Performed environmental chamber testing on Google enterprise and development hardware to validate design reliability under extreme conditions (temperature, humidity, and stress).",
-      "Run various test suites to push the Google enterprise hardware, and the google development tools hardware to its limits ",
+      "Run various test suites to push the Google TPU hardware, and the google development tools hardware to its limits ",
       "Monitored chamber conditions and system metrics in real time to ensure accurate environmental simulation without risking hardware integrity.",
       "Configured and prepared test setups, including network integration, firmware updates, and hardware calibration, before chamber entry."
     ],
