@@ -17,7 +17,7 @@ const navLinks = [
   },
 ];
 
-const resumeLink={resume: "/pdf/Resume.pdf"};
+const resumeLink={resume: "/pdf/main.pdf"};
 
 
 const PROJECTS = [
