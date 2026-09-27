@@ -53,7 +53,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi! My name is Nathan. I'm a computer engineer based in California.
+              Hi! My name is Nathan. I'm a omputer engineer based in California.
             </p>
 
             <Button
